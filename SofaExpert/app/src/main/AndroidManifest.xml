@@ -14,6 +14,7 @@
         android:theme="@style/Theme.SofaExpert">
         <activity android:name=".MovieActivity"></activity>
         <activity android:name=".MainActivity">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
